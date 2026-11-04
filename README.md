@@ -28,7 +28,7 @@
 
 ```python
 class ArefBakAli:
-    role       = "M2 Student — AI, Data Science & Agentic AI"
+    role       = "M2 Student —  Artificial Intelligence, Systems, Data (IASD)"
     university = "Université Paris Dauphine-PSL"
     focus      = ["Predictive modeling", "Probabilistic inference", "Agentic AI"]
     building   = ["LLM agents", "RAG systems", "Computer Vision", "MLOps pipelines"]
